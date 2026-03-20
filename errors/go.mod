@@ -1,3 +1,3 @@
-module gitlab.com/cinemae/gopkg/errors
+module github.com/aldge/gopkg/errors
 
 go 1.24

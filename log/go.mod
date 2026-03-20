@@ -1,4 +1,4 @@
-module gitlab.com/cinemae/gopkg/log
+module github.com/aldge/gopkg/log
 
 go 1.24
 
