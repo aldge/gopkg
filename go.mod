@@ -1,4 +1,4 @@
-module gitlab.com/cinemae/gopkg
+module github.com/aldge/gopkg
 
 go 1.24.0
 
